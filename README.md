@@ -65,6 +65,7 @@ Push to GitHub:
 git remote add origin https://github.com/<username>/mall-management-system.git
 git branch -M main
 git push -u origin main
+![8e812561-13c0-4f6c-b4ff-a85a6147e5e3](https://github.com/user-attachments/assets/05725333-1c27-432d-9a53-59a4872d0ad4)
 
 Author
 
